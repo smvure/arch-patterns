@@ -1,0 +1,2 @@
+# Run `sdk env` in this folder to switch to the matching JDK (needs SDKMAN).
+java=25-tem
